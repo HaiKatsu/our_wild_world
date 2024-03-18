@@ -11,11 +11,39 @@
 	<atom:link href="https://haikatsu.github.io/our_wild_world//comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://haikatsu.github.io/our_wild_world//</link>
 	<description></description>
-	<lastBuildDate>Mon, 18 Mar 2024 18:33:00 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 Mar 2024 19:58:36 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.3</generator>
-</channel>
+	<item>
+		<title>
+		Comment on Giant Squid (Architeuthis dux) by Ashwin		</title>
+		<link>https://haikatsu.github.io/our_wild_world//2024/03/16/giant-squid-architeuthis-dux/#comment-7</link>
+
+		<dc:creator><![CDATA[Ashwin]]></dc:creator>
+		<pubDate>Mon, 18 Mar 2024 19:58:36 +0000</pubDate>
+		<guid isPermaLink="false">https://haikatsu.github.io/our_wild_world//?p=212#comment-7</guid>
+
+					<description><![CDATA[Amazing !!!]]></description>
+			<content:encoded><![CDATA[<p>Amazing !!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Wallace’s Flying Frog (Rhacophorus nigropalmatus) by Ashwin		</title>
+		<link>https://haikatsu.github.io/our_wild_world//2024/03/16/wallaces-flying-frog-rhacophorus-nigropalmatus/#comment-6</link>
+
+		<dc:creator><![CDATA[Ashwin]]></dc:creator>
+		<pubDate>Mon, 18 Mar 2024 19:57:49 +0000</pubDate>
+		<guid isPermaLink="false">https://haikatsu.github.io/our_wild_world//?p=233#comment-6</guid>
+
+					<description><![CDATA[Wow what a great post !!!]]></description>
+			<content:encoded><![CDATA[<p>Wow what a great post !!!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>
